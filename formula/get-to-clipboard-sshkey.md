@@ -1,3 +1,7 @@
+To add to the bitbucket get the public key 
+```powershell
+Get-Content C:\users\rifat.sahin\.ssh\id_rsa.pub | clip
+```
 
 ```powershell
 Get-Content C:\users\rifat.sahin\.ssh\id_rsa | clip
